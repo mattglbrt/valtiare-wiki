@@ -19,4 +19,4 @@ sidebar:
 * Warhammer 40k
 * The Septuagint
 * The Greek Magical Papyri
-* 
+* The Sword of Kaigen

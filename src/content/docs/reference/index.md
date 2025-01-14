@@ -12,8 +12,16 @@ sidebar:
   #  variant: tip
 ---
 
-## Table of Contents
+## Currently In Progress
+- [ ] Cosmology
+- [ ] History Timeline
+- [ ] Human Creation Myth
 
+## Up Next
+- [ ] The Fractured Isles Ruleset\
+
+## Recently Complete
+- [x] Created the website itself
 
 
 - 

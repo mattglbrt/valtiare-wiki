@@ -12,6 +12,11 @@ sidebar:
   #  variant: tip
 ---
 ## Notes
+### Elemental Aspects
+Different species as manifestions of the elements
+Different faces of other species able to manipulate the molecular level of matter that is made of up these elements
+
 
 ### Names
 Hogarth
+
