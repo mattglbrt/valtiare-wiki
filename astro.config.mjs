@@ -16,6 +16,10 @@ export default defineConfig({
 					autogenerate: { directory: 'cosmology' },
 				},
 				{
+					label: 'Locations',
+					autogenerate: { directory: 'locations' },
+				},
+				{
 					label: 'Reference',
 					autogenerate: { directory: 'reference' },
 				},
