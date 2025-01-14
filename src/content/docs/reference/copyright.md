@@ -12,7 +12,7 @@ sidebar:
     #variant: tip
 ---
 
-## On the matter of copyright
+## On the Matter of Copyright
 Is it possible to hold copyright on a channeled work?
 
 This is an inspired work, I am merely the vessel through which it flows from The Muse.
