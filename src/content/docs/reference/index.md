@@ -18,7 +18,7 @@ sidebar:
 - [ ] Human Creation Myth
 
 ## Up Next
-- [ ] The Fractured Isles Ruleset\
+- [ ] The Fractured Isles Ruleset
 
 ## Recently Complete
 - [x] Created the website itself
