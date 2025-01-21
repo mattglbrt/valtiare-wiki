@@ -11,13 +11,12 @@ sidebar:
     #text: New
     #variant: tip
 ---
-
 ## On the Matter of Copyright
 Is it possible to hold copyright on a channeled work?
 
 This is an inspired work, I am merely the vessel through which it flows from The Muse.
 
-I have done my best to site all my sources, points on inspiration, and avoid plagarism of intellectual property theft myself. That being said, if you find something you like, take it, use it, improve it, fuck it up - whatever you like. Attritube it to me or don't. I am giving it freely.
+I have done my best to site all my sources, points on inspiration, and avoid plagiarism of intellectual property theft myself. That being said, if you find something you like, take it, use it, improve it, fuck it up - whatever you want. Attribute it to me or don't. I am giving it freely.
 
 ## Terms & Conditions
 By accessing or using our website (“Site”), you agree to comply with and be bound by these Terms of Service (“Terms”). Please read them carefully. If you do not agree to these Terms, you may not access or use the Site.
